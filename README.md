@@ -57,3 +57,7 @@ With the following software and hardware list you can run all code files present
 
 **Alain Chancé**
 is the CEO of Quantalain SASU and is Advisor ODE, L3C. He is a Qiskit Advocate, an IBM Certified Associate Developer - Quantum Computation using Qiskit® v0.2X, and he has over 30 years of experience in major enterprise transformation projects. He has a diploma Ingénieur civil des Mines from Mines Saint-Étienne (1981).
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781803243900">https://packt.link/free-ebook/9781803243900 </a> </p>
